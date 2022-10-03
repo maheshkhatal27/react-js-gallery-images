@@ -1,0 +1,17 @@
+.thumbnail-img {
+  opacity: 0.5;
+  width: 70%;
+}
+
+.thumbnail-img-active {
+  opacity: 1;
+}
+
+.img-item {
+  list-style-type: none;
+}
+.button {
+  background-color: none;
+  border: 0px;
+  margin: 10px;
+}
